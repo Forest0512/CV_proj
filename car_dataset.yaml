@@ -1,0 +1,9 @@
+path: C:/Users/Aphrodite/Desktop/Master_Class/CV_proj/dataset
+train: images/train
+val: images/train
+
+kpt_shape: [3, 2]
+flip_idx: [1, 0, 2]     # 關鍵！告訴 YOLO 左右翻轉時，第 0 個點與第 1 個點的位置要互換
+
+names:
+  0: car

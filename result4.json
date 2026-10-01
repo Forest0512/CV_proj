@@ -1,0 +1,4787 @@
+[
+{
+  "image": "\/data\/upload\/3\/18edaf1a-frame_0000.jpg",
+  "id": 105,
+  "label": [
+    {
+      "x": 8.76841074041885,
+      "y": 39.54875895626465,
+      "width": 4.439490236421378,
+      "height": 10.711151046604222,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 10.227100389528903,
+      "y": 48.38076069644824,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 12.256581640464445,
+      "y": 46.61436034841175,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 9.571747068914304,
+      "y": 40.07492076206389,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 239,
+  "created_at": "2026-09-30T16:30:21.554858Z",
+  "updated_at": "2026-09-30T16:30:21.554858Z",
+  "lead_time": 30.12
+},
+{
+  "image": "\/data\/upload\/3\/435243a7-frame_0001.jpg",
+  "id": 106,
+  "label": [
+    {
+      "x": 17.53133448230966,
+      "y": 52.46806866228728,
+      "width": 7.103184378274204,
+      "height": 6.351524655705585,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 22.943284484804828,
+      "y": 57.50418880349767,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 23.514076086630443,
+      "y": 54.04655407968156,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 17.78501963867699,
+      "y": 54.00897109355313,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 240,
+  "created_at": "2026-09-30T16:30:44.627998Z",
+  "updated_at": "2026-09-30T16:30:44.627998Z",
+  "lead_time": 22.97
+},
+{
+  "image": "\/data\/upload\/3\/d24e6865-frame_0002.jpg",
+  "id": 107,
+  "label": [
+    {
+      "x": 33.32802803408854,
+      "y": 45.49147378414911,
+      "width": 6.6998900271269815,
+      "height": 7.22749733239145,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 39.182300873325495,
+      "y": 48.873942535708956,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 38.71070667238695,
+      "y": 45.80948366677495,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 33.58821793805445,
+      "y": 49.82797218358465,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 241,
+  "created_at": "2026-09-30T16:31:15.056940Z",
+  "updated_at": "2026-09-30T16:31:15.056940Z",
+  "lead_time": 30.31
+},
+{
+  "image": "\/data\/upload\/3\/d71b7218-frame_0003.jpg",
+  "id": 108,
+  "label": [
+    {
+      "x": 51.76152902025449,
+      "y": 43.79863383429192,
+      "width": 6.537271337148106,
+      "height": 8.470626873562779,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 56.72139906460875,
+      "y": 50.59248132674073,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 57.5344925145028,
+      "y": 47.67257240445455,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 52.4120037801703,
+      "y": 44.78157347149794,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 242,
+  "created_at": "2026-09-30T16:31:46.679054Z",
+  "updated_at": "2026-09-30T16:31:46.679054Z",
+  "lead_time": 31.590999999999998
+},
+{
+  "image": "\/data\/upload\/3\/a87ad2f5-frame_0004.jpg",
+  "id": 109,
+  "label": [
+    {
+      "x": 62.67074129183378,
+      "y": 66.33412936278572,
+      "width": 3.7169986280870093,
+      "height": 13.120687464957243,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 63.671471691703104,
+      "y": 76.84974086617635,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 66.10181694852928,
+      "y": 76.88151008521984,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 64.43988967731727,
+      "y": 66.58828311513255,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 243,
+  "created_at": "2026-09-30T16:32:12.545357Z",
+  "updated_at": "2026-09-30T16:32:12.545357Z",
+  "lead_time": 25.753
+},
+{
+  "image": "\/data\/upload\/3\/04f7bbe1-frame_0005.jpg",
+  "id": 110,
+  "label": [
+    {
+      "x": 52.78227402812197,
+      "y": 89.65911920134918,
+      "width": 7.26780452905346,
+      "height": 7.738981758991,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 53.55158552302181,
+      "y": 93.19503328088676,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 54.11449637294845,
+      "y": 97.26467024035645,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 59.59349531223449,
+      "y": 91.79401072106933,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 244,
+  "created_at": "2026-09-30T16:32:40.042432Z",
+  "updated_at": "2026-09-30T16:32:40.042432Z",
+  "lead_time": 27.654
+},
+{
+  "image": "\/data\/upload\/3\/18ed3067-frame_0006.jpg",
+  "id": 111,
+  "label": [
+    {
+      "x": 41.7697720831292,
+      "y": 85.10023626860877,
+      "width": 7.2910357704785795,
+      "height": 9.911996341565159,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 43.592531025748116,
+      "y": 85.70385143043434,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 42.44883914018287,
+      "y": 89.80208068704316,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 48.41748116797654,
+      "y": 92.40715664860846,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 245,
+  "created_at": "2026-09-30T16:33:06.144431Z",
+  "updated_at": "2026-09-30T16:33:06.144431Z",
+  "lead_time": 26.155
+},
+{
+  "image": "\/data\/upload\/3\/9e549da3-frame_0007.jpg",
+  "id": 112,
+  "label": [
+    {
+      "x": 24.67960065933264,
+      "y": 7.455826267711774,
+      "width": 5.223592746572084,
+      "height": 8.015618343277858,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 24.968272890064338,
+      "y": 12.172333402628338,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 26.164200703095315,
+      "y": 13.90742151961836,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 29.00968412030694,
+      "y": 7.822394179751948,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 246,
+  "created_at": "2026-09-30T16:33:30.371606Z",
+  "updated_at": "2026-09-30T16:33:30.371606Z",
+  "lead_time": 24.214000000000002
+},
+{
+  "image": "\/data\/upload\/3\/0044f459-frame_0008.jpg",
+  "id": 113,
+  "label": [
+    {
+      "x": 22.086119925122063,
+      "y": 18.39787244026934,
+      "width": 3.5651020495354526,
+      "height": 9.918350185374207,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 22.298775135094292,
+      "y": 25.958946572617343,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 24.262708544838375,
+      "y": 26.136854199260828,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 24.075071594862827,
+      "y": 18.53130316025189,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 247,
+  "created_at": "2026-09-30T16:33:51.610430Z",
+  "updated_at": "2026-09-30T16:33:51.610430Z",
+  "lead_time": 21.168
+},
+{
+  "image": "\/data\/upload\/3\/a1c6dc0f-frame_0009.jpg",
+  "id": 114,
+  "label": [
+    {
+      "x": 25.88246971344802,
+      "y": 36.54396914890698,
+      "width": 6.046162893411914,
+      "height": 8.456171878897909,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 29.70888748865017,
+      "y": 43.49682158266907,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 30.977313270484885,
+      "y": 40.640514636907945,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 26.305278307393685,
+      "y": 37.521126788247756,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 248,
+  "created_at": "2026-09-30T16:34:15.909104Z",
+  "updated_at": "2026-09-30T16:34:15.909104Z",
+  "lead_time": 24.374
+},
+{
+  "image": "\/data\/upload\/3\/7f221b9e-frame_0010.jpg",
+  "id": 115,
+  "label": [
+    {
+      "x": 39.23520901046659,
+      "y": 39.397737855425305,
+      "width": 6.553533206145853,
+      "height": 6.909487449766072,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 44.99191063571678,
+      "y": 42.66456664966737,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 44.536578303776096,
+      "y": 39.48446782341509,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 39.56044639042454,
+      "y": 43.358406393576956,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 249,
+  "created_at": "2026-09-30T16:34:35.172490Z",
+  "updated_at": "2026-09-30T16:34:35.172490Z",
+  "lead_time": 19.108
+},
+{
+  "image": "\/data\/upload\/3\/7fe4f9c4-frame_0011.jpg",
+  "id": 116,
+  "label": [
+    {
+      "x": 54.65134817184163,
+      "y": 25.52010892393783,
+      "width": 6.08764568209533,
+      "height": 6.6331336464407515,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 60.05167901886238,
+      "y": 28.382829760822688,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 59.42327688393642,
+      "y": 25.589931383373955,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 55.142287339753295,
+      "y": 29.325432963211632,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 250,
+  "created_at": "2026-09-30T16:34:54.977593Z",
+  "updated_at": "2026-09-30T16:34:54.977593Z",
+  "lead_time": 19.772
+},
+{
+  "image": "\/data\/upload\/3\/3432a89e-frame_0012.jpg",
+  "id": 117,
+  "label": [
+    {
+      "x": 69.52595828695445,
+      "y": 27.234295605280245,
+      "width": 6.146986481198742,
+      "height": 8.52844685222189,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 73.88413917838575,
+      "y": 34.230513023035606,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 75.12004122222471,
+      "y": 31.83098390868162,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 70.29026612985406,
+      "y": 27.754675413212794,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 251,
+  "created_at": "2026-09-30T16:35:24.080639Z",
+  "updated_at": "2026-09-30T16:35:24.080639Z",
+  "lead_time": 21.86
+},
+{
+  "image": "\/data\/upload\/3\/bf921c4f-frame_0013.jpg",
+  "id": 118,
+  "label": [
+    {
+      "x": 76.02277518400129,
+      "y": 50.311610632998,
+      "width": 4.000419773478389,
+      "height": 11.708545678474167,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 76.78708302690049,
+      "y": 59.186977357174555,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 78.9986972106123,
+      "y": 60.112097015720664,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 78.94991160361866,
+      "y": 50.62962051562299,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 252,
+  "created_at": "2026-09-30T16:35:48.584607Z",
+  "updated_at": "2026-09-30T16:35:48.584607Z",
+  "lead_time": 24.472
+},
+{
+  "image": "\/data\/upload\/3\/e7eb173e-frame_0014.jpg",
+  "id": 119,
+  "label": [
+    {
+      "x": 62.20512232201788,
+      "y": 72.99501011484473,
+      "width": 7.382888525037837,
+      "height": 6.678207535129744,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 63.18083446189052,
+      "y": 74.18031967735804,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 63.50607184184815,
+      "y": 78.37226813014514,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 69.31155907409163,
+      "y": 75.13434932523374,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 253,
+  "created_at": "2026-09-30T16:36:07.881286Z",
+  "updated_at": "2026-09-30T16:36:07.881286Z",
+  "lead_time": 19.29
+},
+{
+  "image": "\/data\/upload\/3\/9e6dcd85-frame_0015.jpg",
+  "id": 120,
+  "label": [
+    {
+      "x": 47.12624883700654,
+      "y": 59.35503073597469,
+      "width": 6.60482063913935,
+      "height": 9.851634825382911,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 49.327855716719625,
+      "y": 59.86651516257443,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 47.88930576690708,
+      "y": 62.80199100219191,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 52.96801254624529,
+      "y": 66.76043569500943,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 254,
+  "created_at": "2026-09-30T16:36:39.312124Z",
+  "updated_at": "2026-09-30T16:36:39.312124Z",
+  "lead_time": 31.422
+},
+{
+  "image": "\/data\/upload\/3\/781d839b-frame_0016.jpg",
+  "id": 121,
+  "label": [
+    {
+      "x": 34.31866159711227,
+      "y": 35.91311941931748,
+      "width": 5.604090239269772,
+      "height": 9.162242772139424,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 36.43270456683673,
+      "y": 36.202219312613096,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 34.656408107068195,
+      "y": 37.981295579047924,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 39.04711273649606,
+      "y": 43.0961398450481,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 255,
+  "created_at": "2026-09-30T16:37:21.934970Z",
+  "updated_at": "2026-09-30T16:37:21.934970Z",
+  "lead_time": 43.139
+},
+{
+  "image": "\/data\/upload\/3\/ad0167aa-frame_0017.jpg",
+  "id": 122,
+  "label": [
+    {
+      "x": 21.99073477541985,
+      "y": 20.579785125843415,
+      "width": 5.919320315228511,
+      "height": 5.975694794421265,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 22.30784122087909,
+      "y": 23.548841029990875,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 23.005475400888184,
+      "y": 20.730117070358176,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 27.402684777915187,
+      "y": 23.624007002247744,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 256,
+  "created_at": "2026-09-30T16:37:42.599471Z",
+  "updated_at": "2026-09-30T16:37:42.599471Z",
+  "lead_time": 20.534000000000002
+},
+{
+  "image": "\/data\/upload\/3\/71187977-frame_0018.jpg",
+  "id": 123,
+  "label": [
+    {
+      "x": 7.3455687253494055,
+      "y": 25.24050654962149,
+      "width": 6.200137652606672,
+      "height": 9.752863416316753,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 7.670183262135111,
+      "y": 31.069140899018176,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 8.903718501920748,
+      "y": 32.94469155600219,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 12.506939860241959,
+      "y": 25.90416293593913,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 171,
+  "created_at": "2026-09-30T16:00:15.361008Z",
+  "updated_at": "2026-09-30T16:00:15.361008Z",
+  "lead_time": 28.415
+},
+{
+  "image": "\/data\/upload\/3\/1942b1fa-frame_0019.jpg",
+  "id": 124,
+  "label": [
+    {
+      "x": 6.763345432079667,
+      "y": 40.7261415164101,
+      "width": 4.366065519767524,
+      "height": 11.022466937967575,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 8.402648842847482,
+      "y": 50.76755118764829,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 10.610027692990206,
+      "y": 49.29596528755314,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 7.753419769276093,
+      "y": 41.130106273299674,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 172,
+  "created_at": "2026-09-30T16:00:34.900367Z",
+  "updated_at": "2026-09-30T16:00:34.900367Z",
+  "lead_time": 19.308
+},
+{
+  "image": "\/data\/upload\/3\/cf56f974-frame_0020.jpg",
+  "id": 125,
+  "label": [
+    {
+      "x": 15.66875134528539,
+      "y": 54.6072916893215,
+      "width": 7.076921516464719,
+      "height": 6.2905969035243325,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 21.648475727414873,
+      "y": 59.92260225121445,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 22.1696443662243,
+      "y": 56.41157142134039,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 15.860760843794328,
+      "y": 56.0214568846877,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 173,
+  "created_at": "2026-09-30T16:00:56.329470Z",
+  "updated_at": "2026-09-30T16:00:56.329470Z",
+  "lead_time": 21.206
+},
+{
+  "image": "\/data\/upload\/3\/d33d0a05-frame_0021.jpg",
+  "id": 126,
+  "label": [
+    {
+      "x": 32.98458248977418,
+      "y": 43.65482878291311,
+      "width": 6.454835212238658,
+      "height": 8.611995916092315,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 38.70279240699902,
+      "y": 46.45150786906677,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 37.791374669100726,
+      "y": 43.87678744054435,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 33.371622899018575,
+      "y": 49.69210427048294,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 174,
+  "created_at": "2026-09-30T16:01:22.026950Z",
+  "updated_at": "2026-09-30T16:01:22.026950Z",
+  "lead_time": 25.455
+},
+{
+  "image": "\/data\/upload\/3\/a0149e29-frame_0022.jpg",
+  "id": 127,
+  "label": [
+    {
+      "x": 47.30853015836862,
+      "y": 35.52272613358555,
+      "width": 6.351083412211973,
+      "height": 5.139008800136157,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 52.984415334068544,
+      "y": 35.97285829126216,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 52.7312159953757,
+      "y": 38.9362283292969,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 47.498429662390315,
+      "y": 37.060677672312885,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 175,
+  "created_at": "2026-09-30T16:01:57.723495Z",
+  "updated_at": "2026-09-30T16:01:57.723495Z",
+  "lead_time": 35.347
+},
+{
+  "image": "\/data\/upload\/3\/2b1196b6-frame_0023.jpg",
+  "id": 128,
+  "label": [
+    {
+      "x": 60.67126469605901,
+      "y": 43.961362090236726,
+      "width": 5.664523666910296,
+      "height": 10.820484559523068,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 64.06348660547019,
+      "y": 52.93515061826827,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 65.78394365043437,
+      "y": 50.79990833185569,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 61.56395467222035,
+      "y": 44.59616385106242,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 176,
+  "created_at": "2026-09-30T16:02:20.019842Z",
+  "updated_at": "2026-09-30T16:02:20.019842Z",
+  "lead_time": 22.053
+},
+{
+  "image": "\/data\/upload\/3\/9b81ac2d-frame_0024.jpg",
+  "id": 129,
+  "label": [
+    {
+      "x": 61.952684345549514,
+      "y": 72.88678399294707,
+      "width": 5.518447125356747,
+      "height": 13.042290722411776,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 62.66683632647834,
+      "y": 81.91828177196328,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 64.97159953765677,
+      "y": 83.90925093091555,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 66.44859568003167,
+      "y": 73.49273112828125,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 177,
+  "created_at": "2026-09-30T16:02:45.746904Z",
+  "updated_at": "2026-09-30T16:02:45.746904Z",
+  "lead_time": 25.512
+},
+{
+  "image": "\/data\/upload\/3\/4db7d4fb-frame_0025.jpg",
+  "id": 130,
+  "label": [
+    {
+      "x": 46.781948820615455,
+      "y": 90.16723146693577,
+      "width": 7.40370847361217,
+      "height": 5.748729232649327,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 47.96804039733225,
+      "y": 91.36580821814461,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 47.980525571824,
+      "y": 95.64961031042762,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 53.92346862990056,
+      "y": 92.6309725666427,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 178,
+  "created_at": "2026-09-30T16:03:15.870559Z",
+  "updated_at": "2026-09-30T16:03:15.870559Z",
+  "lead_time": 29.909
+},
+{
+  "image": "\/data\/upload\/3\/1506ce1e-frame_0026.jpg",
+  "id": 131,
+  "label": [
+    {
+      "x": 34.985928520858934,
+      "y": 77.80504637119856,
+      "width": 6.146547442095993,
+      "height": 11.463798800734663,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 37.26344386770694,
+      "y": 78.68312457721214,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 35.34264779205195,
+      "y": 81.2441860114188,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 40.13091800922047,
+      "y": 87.56147088246192,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 179,
+  "created_at": "2026-09-30T16:03:38.871339Z",
+  "updated_at": "2026-09-30T16:03:38.871339Z",
+  "lead_time": 22.766
+},
+{
+  "image": "\/data\/upload\/3\/fc1fd8ad-frame_0027.jpg",
+  "id": 132,
+  "label": [
+    {
+      "x": 31.570833439009512,
+      "y": 54.67192141088568,
+      "width": 3.3319931924627464,
+      "height": 11.115355068189386,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 34.020828433467315,
+      "y": 55.64756386201159,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 31.786432998521708,
+      "y": 56.27476258059282,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 33.21723007528512,
+      "y": 64.77678965469386,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 180,
+  "created_at": "2026-09-30T16:04:01.782723Z",
+  "updated_at": "2026-09-30T16:04:01.782723Z",
+  "lead_time": 22.682
+},
+{
+  "image": "\/data\/upload\/3\/fcbef44f-frame_0028.jpg",
+  "id": 133,
+  "label": [
+    {
+      "x": 31.240643994085342,
+      "y": 28.860694370023047,
+      "width": 3.294837548374789,
+      "height": 9.579735663364415,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 34.064790464121174,
+      "y": 29.899460887737224,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 32.13333397024629,
+      "y": 29.58206000732454,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 32.425487053353415,
+      "y": 37.25739038821297,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 181,
+  "created_at": "2026-09-30T16:04:22.457933Z",
+  "updated_at": "2026-09-30T16:04:22.457933Z",
+  "lead_time": 20.423
+},
+{
+  "image": "\/data\/upload\/3\/1ec84fed-frame_0029.jpg",
+  "id": 134,
+  "label": [
+    {
+      "x": 25.39615315776471,
+      "y": 8.547104631185,
+      "width": 5.0315253201782015,
+      "height": 7.080481178436697,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 27.044196190676594,
+      "y": 8.835650886105705,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 25.70828252005854,
+      "y": 10.322773892235041,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    },
+    {
+      "x": 29.678568008437423,
+      "y": 14.229246266544937,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1920,
+      "original_height": 1080
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 182,
+  "created_at": "2026-09-30T16:04:48.069508Z",
+  "updated_at": "2026-09-30T16:04:48.069508Z",
+  "lead_time": 25.372
+},
+{
+  "image": "\/data\/upload\/3\/0fc18673-frame_0030.jpg",
+  "id": 135,
+  "label": [
+    {
+      "x": 36.9646640381392,
+      "y": 19.41796779415473,
+      "width": 5.675952403560611,
+      "height": 4.71235303894024,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 37.68496256650944,
+      "y": 19.91310633810154,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 37.59852674310496,
+      "y": 22.559536486781756,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 42.333289069594535,
+      "y": 20.800940968626517,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 183,
+  "created_at": "2026-09-30T16:05:15.565805Z",
+  "updated_at": "2026-09-30T16:05:15.565805Z",
+  "lead_time": 27.251
+},
+{
+  "image": "\/data\/upload\/3\/207f95e9-frame_0031.jpg",
+  "id": 136,
+  "label": [
+    {
+      "x": 32.308028754272826,
+      "y": 19.34147510475035,
+      "width": 5.718513578325114,
+      "height": 4.742133638188128,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 33.10201893909428,
+      "y": 19.928294317502736,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 32.878987988301574,
+      "y": 22.243851211066147,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 37.77674766770945,
+      "y": 20.705433274931558,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 184,
+  "created_at": "2026-09-30T16:05:43.002828Z",
+  "updated_at": "2026-09-30T16:05:43.002828Z",
+  "lead_time": 27.187
+},
+{
+  "image": "\/data\/upload\/3\/18b9a7f7-frame_0032.jpg",
+  "id": 137,
+  "label": [
+    {
+      "x": 27.409759999597128,
+      "y": 18.798190927076764,
+      "width": 5.7239723054519365,
+      "height": 5.0538278968344335,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 28.197286390615357,
+      "y": 19.139665784971125,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 27.995602802671588,
+      "y": 21.769022190756633,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 32.8264049329439,
+      "y": 20.795818845758106,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 185,
+  "created_at": "2026-09-30T16:06:14.822126Z",
+  "updated_at": "2026-09-30T16:06:14.822126Z",
+  "lead_time": 31.593
+},
+{
+  "image": "\/data\/upload\/3\/3e7c29b1-frame_0033.jpg",
+  "id": 138,
+  "label": [
+    {
+      "x": 22.809824740721112,
+      "y": 15.943476925196403,
+      "width": 5.390809572797457,
+      "height": 5.637447919265242,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 23.972548374070307,
+      "y": 16.244140814224277,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 23.084650326786004,
+      "y": 18.16087310677451,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 27.460719274115775,
+      "y": 18.724617898701048,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 257,
+  "created_at": "2026-09-30T16:38:21.973856Z",
+  "updated_at": "2026-09-30T16:38:21.973856Z",
+  "lead_time": 26.092
+},
+{
+  "image": "\/data\/upload\/3\/c4820984-frame_0034.jpg",
+  "id": 139,
+  "label": [
+    {
+      "x": 19.39862761860188,
+      "y": 15.635216200033298,
+      "width": 5.530932299848574,
+      "height": 4.683327676019254,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 20.14773808810728,
+      "y": 16.167916978348245,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 19.785668027846313,
+      "y": 18.29872009160819,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 24.367727066321308,
+      "y": 16.98916401158385,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 186,
+  "created_at": "2026-09-30T16:06:59.898216Z",
+  "updated_at": "2026-09-30T16:06:59.898216Z",
+  "lead_time": 24.826
+},
+{
+  "image": "\/data\/upload\/3\/f3ae4b12-frame_0035.jpg",
+  "id": 140,
+  "label": [
+    {
+      "x": 17.370472801172156,
+      "y": 15.687314808582972,
+      "width": 5.397436972590538,
+      "height": 4.661131810256112,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.138791231434094,
+      "y": 16.216600838318975,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 17.6778001732769,
+      "y": 18.333744957263146,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 22.182066970687867,
+      "y": 16.984919268580974,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 187,
+  "created_at": "2026-09-30T16:07:25.823061Z",
+  "updated_at": "2026-09-30T16:07:25.823061Z",
+  "lead_time": 25.706
+},
+{
+  "image": "\/data\/upload\/3\/11b32c7f-frame_0036.jpg",
+  "id": 141,
+  "label": [
+    {
+      "x": 16.995014237317346,
+      "y": 15.748783821649193,
+      "width": 5.358907394504907,
+      "height": 4.6472909654242684,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 17.75083044460177,
+      "y": 16.35495220844372,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 17.30756981175831,
+      "y": 18.486644368670966,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 21.84814988409068,
+      "y": 17.001531821024496,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 188,
+  "created_at": "2026-09-30T16:07:54.343326Z",
+  "updated_at": "2026-09-30T16:07:54.343326Z",
+  "lead_time": 28.293
+},
+{
+  "image": "\/data\/upload\/3\/0d0c7a95-frame_0037.jpg",
+  "id": 142,
+  "label": [
+    {
+      "x": 17.05367042178974,
+      "y": 15.771723666256316,
+      "width": 5.512684737129872,
+      "height": 4.592836838677267,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 17.831592832430307,
+      "y": 16.352230924676483,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 17.39941371540793,
+      "y": 18.50352252941008,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 21.913284493197175,
+      "y": 16.88151695441253,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 189,
+  "created_at": "2026-09-30T16:08:40.060004Z",
+  "updated_at": "2026-09-30T16:08:40.060004Z",
+  "lead_time": 45.451
+},
+{
+  "image": "\/data\/upload\/3\/6ccc856e-frame_0038.jpg",
+  "id": 143,
+  "label": [
+    {
+      "x": 13.936142225291025,
+      "y": 48.11855835382056,
+      "width": 6.362444920999502,
+      "height": 6.174889855301094,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.78912955023716,
+      "y": 52.64873455607459,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 19.51951225800497,
+      "y": 49.64785350490017,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 14.22829530839815,
+      "y": 49.64785350490017,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 190,
+  "created_at": "2026-09-30T16:09:02.493397Z",
+  "updated_at": "2026-09-30T16:09:02.493397Z",
+  "lead_time": 22.183
+},
+{
+  "image": "\/data\/upload\/3\/c21c7dcd-frame_0039.jpg",
+  "id": 144,
+  "label": [
+    {
+      "x": 13.86013579904791,
+      "y": 48.06002654846612,
+      "width": 6.379924165287947,
+      "height": 6.148254816385452,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.741839025324726,
+      "y": 52.654570761433796,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 19.37858292440436,
+      "y": 49.569345420359504,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 14.147294812357975,
+      "y": 49.45836609154388,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 191,
+  "created_at": "2026-09-30T16:09:26.510756Z",
+  "updated_at": "2026-09-30T16:09:26.510756Z",
+  "lead_time": 23.776
+},
+{
+  "image": "\/data\/upload\/3\/5b8fc1a4-frame_0040.jpg",
+  "id": 145,
+  "label": [
+    {
+      "x": 13.721224074638888,
+      "y": 47.92409544638876,
+      "width": 6.354953816304566,
+      "height": 6.148254816385259,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.64038282439132,
+      "y": 52.45205206206537,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 19.264641548979192,
+      "y": 49.54439364709607,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 14.02086826244105,
+      "y": 49.45561018404357,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 192,
+  "created_at": "2026-09-30T16:09:44.643841Z",
+  "updated_at": "2026-09-30T16:09:44.643841Z",
+  "lead_time": 17.916
+},
+{
+  "image": "\/data\/upload\/3\/2e20d258-frame_0041.jpg",
+  "id": 146,
+  "label": [
+    {
+      "x": 13.651642155966574,
+      "y": 47.82847724095303,
+      "width": 6.348231030039737,
+      "height": 6.197768670780119,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.54006816850829,
+      "y": 52.37009285094616,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 19.212346794987543,
+      "y": 49.31389287279288,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 13.920553606558025,
+      "y": 49.228524158319324,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 193,
+  "created_at": "2026-09-30T16:10:06.728887Z",
+  "updated_at": "2026-09-30T16:10:06.728887Z",
+  "lead_time": 21.86
+},
+{
+  "image": "\/data\/upload\/3\/3a8a0433-frame_0042.jpg",
+  "id": 147,
+  "label": [
+    {
+      "x": 13.571698822004166,
+      "y": 47.68644017435285,
+      "width": 6.3549538163045804,
+      "height": 6.214842413674862,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.37849100133055,
+      "y": 52.21439679003019,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 19.090145947360725,
+      "y": 49.17356318048214,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 13.833887486330825,
+      "y": 49.129171448955894,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 194,
+  "created_at": "2026-09-30T16:10:27.376424Z",
+  "updated_at": "2026-09-30T16:10:27.376424Z",
+  "lead_time": 20.427
+},
+{
+  "image": "\/data\/upload\/3\/2d1eb764-frame_0043.jpg",
+  "id": 148,
+  "label": [
+    {
+      "x": 13.4359751123746,
+      "y": 47.401855734295054,
+      "width": 6.357835010418027,
+      "height": 6.180694927885442,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.32440112491679,
+      "y": 52.011766315867256,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 19.015887712152587,
+      "y": 48.870197623240415,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 13.743302484479619,
+      "y": 48.71653393718801,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 195,
+  "created_at": "2026-09-30T16:10:46.884394Z",
+  "updated_at": "2026-09-30T16:10:46.884394Z",
+  "lead_time": 19.267
+},
+{
+  "image": "\/data\/upload\/3\/d4298ae6-frame_0044.jpg",
+  "id": 149,
+  "label": [
+    {
+      "x": 13.344122132240896,
+      "y": 47.18386610637953,
+      "width": 6.357835010418047,
+      "height": 6.129473699201174,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.12690436062183,
+      "y": 51.81085043084531,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 18.904826771262105,
+      "y": 48.80587168137615,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 13.651449504345686,
+      "y": 48.566839280850196,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 196,
+  "created_at": "2026-09-30T16:11:05.566857Z",
+  "updated_at": "2026-09-30T16:11:05.566857Z",
+  "lead_time": 18.469
+},
+{
+  "image": "\/data\/upload\/3\/4d0eaebf-frame_0045.jpg",
+  "id": 150,
+  "label": [
+    {
+      "x": 13.270697504474093,
+      "y": 46.99801573883124,
+      "width": 6.379924165288086,
+      "height": 6.170450682148558,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.12743038176776,
+      "y": 51.503776488745466,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 18.87654085127321,
+      "y": 48.50733461072367,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 13.557856517784522,
+      "y": 48.3519635503818,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 197,
+  "created_at": "2026-09-30T16:11:26.890658Z",
+  "updated_at": "2026-09-30T16:11:26.890658Z",
+  "lead_time": 21.092
+},
+{
+  "image": "\/data\/upload\/3\/2229991f-frame_0046.jpg",
+  "id": 151,
+  "label": [
+    {
+      "x": 13.178132119707623,
+      "y": 46.73496533384559,
+      "width": 6.386646951552817,
+      "height": 6.248989899464254,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.0842950522918,
+      "y": 51.30659739860681,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 18.785385619905874,
+      "y": 48.28454490624296,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 13.474384470719805,
+      "y": 48.28454490624296,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 198,
+  "created_at": "2026-09-30T16:11:47.909793Z",
+  "updated_at": "2026-09-30T16:11:47.909793Z",
+  "lead_time": 20.795
+},
+{
+  "image": "\/data\/upload\/3\/3580a4f3-frame_0047.jpg",
+  "id": 152,
+  "label": [
+    {
+      "x": 42.983571646254205,
+      "y": 2.721364184532053,
+      "width": 2.582582958863781,
+      "height": 4.908472823634499,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 44.11990814815427,
+      "y": 2.988491957246909,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 43.255916758279824,
+      "y": 3.6229204174445777,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 45.01207317030725,
+      "y": 6.110547800851223,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 199,
+  "created_at": "2026-09-30T16:12:14.830067Z",
+  "updated_at": "2026-09-30T16:12:14.830067Z",
+  "lead_time": 26.672
+},
+{
+  "image": "\/data\/upload\/3\/f0d98597-frame_0048.jpg",
+  "id": 153,
+  "label": [
+    {
+      "x": 45.92818061989094,
+      "y": 9.549450940800568,
+      "width": 2.631603015026066,
+      "height": 4.971952363029639,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 47.16658203872686,
+      "y": 9.751264505351664,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 46.144900868187314,
+      "y": 10.24662507288599,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 47.90962289002835,
+      "y": 13.237135165778408,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 200,
+  "created_at": "2026-09-30T16:12:37.675532Z",
+  "updated_at": "2026-09-30T16:12:37.675532Z",
+  "lead_time": 22.628
+},
+{
+  "image": "\/data\/upload\/3\/58561186-frame_0049.jpg",
+  "id": 154,
+  "label": [
+    {
+      "x": 49.249387464996644,
+      "y": 19.642239037435573,
+      "width": 2.3562547795599027,
+      "height": 5.664778330133367,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 50.58012202961775,
+      "y": 19.92439274736571,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 49.49355894474302,
+      "y": 20.445291904159586,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 50.97079639721315,
+      "y": 24.17840252784902,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 201,
+  "created_at": "2026-09-30T16:13:05.161155Z",
+  "updated_at": "2026-09-30T16:13:05.161155Z",
+  "lead_time": 27.27
+},
+{
+  "image": "\/data\/upload\/3\/2a46c39f-frame_0050.jpg",
+  "id": 155,
+  "label": [
+    {
+      "x": 51.61046900803946,
+      "y": 32.23022204873713,
+      "width": 1.9909366810150737,
+      "height": 5.92689745710977,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 53.04732425424452,
+      "y": 32.66430467939905,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 51.892205330825405,
+      "y": 32.81456405155113,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 52.765587931459365,
+      "y": 37.22217230134546,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 202,
+  "created_at": "2026-09-30T16:13:33.477291Z",
+  "updated_at": "2026-09-30T16:13:33.477291Z",
+  "lead_time": 28.093
+},
+{
+  "image": "\/data\/upload\/3\/48b9f96a-frame_0051.jpg",
+  "id": 156,
+  "label": [
+    {
+      "x": 51.60364183242504,
+      "y": 42.243878594957195,
+      "width": 2.1672024829626357,
+      "height": 6.408498008879129,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 53.08456352911617,
+      "y": 42.61631635499301,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 51.863706130380514,
+      "y": 42.847484619842355,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 52.94008336358532,
+      "y": 47.58643404925409,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 203,
+  "created_at": "2026-09-30T16:13:59.717021Z",
+  "updated_at": "2026-09-30T16:13:59.717021Z",
+  "lead_time": 26.019
+},
+{
+  "image": "\/data\/upload\/3\/1a636f17-frame_0052.jpg",
+  "id": 157,
+  "label": [
+    {
+      "x": 51.55774706968184,
+      "y": 43.90912763999614,
+      "width": 1.8999141767306378,
+      "height": 6.395655327498723,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 53.06756479947953,
+      "y": 44.53841902764194,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 51.91172347523276,
+      "y": 44.67968852282766,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 52.58355624495119,
+      "y": 49.392952589478355,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 204,
+  "created_at": "2026-09-30T16:14:26.310458Z",
+  "updated_at": "2026-09-30T16:14:26.310458Z",
+  "lead_time": 26.376
+},
+{
+  "image": "\/data\/upload\/3\/4e84c0af-frame_0053.jpg",
+  "id": 158,
+  "label": [
+    {
+      "x": 52.05380710801628,
+      "y": 39.21857806013054,
+      "width": 2.8453746885156086,
+      "height": 6.21166425955747,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 54.56009569375567,
+      "y": 40.37179842899351,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 53.41015151912241,
+      "y": 39.53309270618407,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 52.70249356550194,
+      "y": 44.38186016617615,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 205,
+  "created_at": "2026-09-30T16:14:51.365303Z",
+  "updated_at": "2026-09-30T16:14:51.366304Z",
+  "lead_time": 24.819
+},
+{
+  "image": "\/data\/upload\/3\/aaefc8c7-frame_0054.jpg",
+  "id": 159,
+  "label": [
+    {
+      "x": 55.89628004033612,
+      "y": 35.65495284985937,
+      "width": 3.890644457509155,
+      "height": 3.7794176634100394,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 59.31220395395914,
+      "y": 37.63639511999699,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 59.07484368201561,
+      "y": 35.72833960060551,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 56.15428033592781,
+      "y": 37.32450142932723,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 206,
+  "created_at": "2026-09-30T16:15:16.485746Z",
+  "updated_at": "2026-09-30T16:15:16.485746Z",
+  "lead_time": 24.91
+},
+{
+  "image": "\/data\/upload\/3\/9b123683-frame_0055.jpg",
+  "id": 160,
+  "label": [
+    {
+      "x": 62.0571206988071,
+      "y": 37.89875275391254,
+      "width": 3.765875514561258,
+      "height": 6.210720715619149,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 65.54125989058507,
+      "y": 41.57175962874193,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 64.60213881463457,
+      "y": 42.92409397811064,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 62.73328787349309,
+      "y": 38.54987669990566,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 207,
+  "created_at": "2026-09-30T16:15:53.760795Z",
+  "updated_at": "2026-09-30T16:15:53.760795Z",
+  "lead_time": 37.056
+},
+{
+  "image": "\/data\/upload\/3\/862d0f95-frame_0056.jpg",
+  "id": 161,
+  "label": [
+    {
+      "x": 66.46375600120533,
+      "y": 44.69144518575051,
+      "width": 3.8104659041101856,
+      "height": 6.290292921070778,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 69.17417668895098,
+      "y": 49.97367834382829,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 69.96802375230727,
+      "y": 48.36078272304089,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 67.11017432422462,
+      "y": 45.155152676725955,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 208,
+  "created_at": "2026-09-30T16:16:21.888209Z",
+  "updated_at": "2026-09-30T16:16:21.888209Z",
+  "lead_time": 27.903
+},
+{
+  "image": "\/data\/upload\/3\/2e8b2eb4-frame_0057.jpg",
+  "id": 162,
+  "label": [
+    {
+      "x": 69.41795169210863,
+      "y": 49.46371576388498,
+      "width": 3.870117953992011,
+      "height": 6.402718802258021,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 73.0683153143283,
+      "y": 53.392163571372166,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 72.06721224736508,
+      "y": 54.80293212102224,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 70.11384040938805,
+      "y": 49.876094263013506,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 209,
+  "created_at": "2026-09-30T16:16:44.742291Z",
+  "updated_at": "2026-09-30T16:16:44.742291Z",
+  "lead_time": 22.624
+},
+{
+  "image": "\/data\/upload\/3\/76333ba3-frame_0058.jpg",
+  "id": 163,
+  "label": [
+    {
+      "x": 69.73443549470319,
+      "y": 51.378687984532654,
+      "width": 4.066394258865302,
+      "height": 5.676465170189678,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 73.00257683901175,
+      "y": 56.10351046442745,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 73.57544069534156,
+      "y": 54.200225083834454,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 70.2509520864768,
+      "y": 52.113289359500016,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 210,
+  "created_at": "2026-09-30T16:17:09.256254Z",
+  "updated_at": "2026-09-30T16:17:09.256254Z",
+  "lead_time": 24.252
+},
+{
+  "image": "\/data\/upload\/3\/4d9e54a0-frame_0059.jpg",
+  "id": 164,
+  "label": [
+    {
+      "x": 66.64147635110268,
+      "y": 50.69006340890966,
+      "width": 4.218820833500629,
+      "height": 4.649050659748162,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 70.19568842316126,
+      "y": 54.42728369064203,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 70.48464875422295,
+      "y": 52.34676930699786,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 67.03157279803574,
+      "y": 51.704635237971885,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 211,
+  "created_at": "2026-09-30T16:17:32.897079Z",
+  "updated_at": "2026-09-30T16:17:32.897079Z",
+  "lead_time": 23.407
+},
+{
+  "image": "\/data\/upload\/3\/cb0560cb-frame_0060.jpg",
+  "id": 165,
+  "label": [
+    {
+      "x": 60.89946507298804,
+      "y": 48.84042019453763,
+      "width": 3.981873362030068,
+      "height": 4.307435335026215,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 64.35543063248673,
+      "y": 52.19621283926826,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 64.6841230090694,
+      "y": 50.192754543907206,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 61.27511350336909,
+      "y": 49.62510802688824,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 212,
+  "created_at": "2026-09-30T16:17:54.683917Z",
+  "updated_at": "2026-09-30T16:17:54.683917Z",
+  "lead_time": 21.567
+},
+{
+  "image": "\/data\/upload\/3\/57714fd6-frame_0061.jpg",
+  "id": 166,
+  "label": [
+    {
+      "x": 53.295121060190134,
+      "y": 44.94424775926586,
+      "width": 4.075785469625055,
+      "height": 4.991950252607966,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 56.469350296903286,
+      "y": 48.98455532157783,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 57.0516053639926,
+      "y": 47.04787896939548,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 53.72711675512784,
+      "y": 45.829108506384166,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 213,
+  "created_at": "2026-09-30T16:18:18.806025Z",
+  "updated_at": "2026-09-30T16:18:18.806025Z",
+  "lead_time": 23.901
+},
+{
+  "image": "\/data\/upload\/3\/4ac07251-frame_0062.jpg",
+  "id": 167,
+  "label": [
+    {
+      "x": 47.13270787231137,
+      "y": 40.00740917153651,
+      "width": 3.784657936080771,
+      "height": 5.542901283832158,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 49.8092029387715,
+      "y": 44.48179936451026,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 50.5792822210509,
+      "y": 42.82894627083739,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 47.68678930712338,
+      "y": 40.67522860332426,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 214,
+  "created_at": "2026-09-30T16:18:41.031078Z",
+  "updated_at": "2026-09-30T16:18:41.031078Z",
+  "lead_time": 22.005
+},
+{
+  "image": "\/data\/upload\/3\/21a2e058-frame_0063.jpg",
+  "id": 168,
+  "label": [
+    {
+      "x": 44.04141884948174,
+      "y": 36.43861211716689,
+      "width": 3.6503636222196567,
+      "height": 5.708186593199615,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 46.66626225676337,
+      "y": 41.12670452831169,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 47.41098526999212,
+      "y": 39.41207813719851,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 44.52976180897599,
+      "y": 36.80758235322914,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 215,
+  "created_at": "2026-09-30T16:19:04.643911Z",
+  "updated_at": "2026-09-30T16:19:04.644911Z",
+  "lead_time": 23.392
+},
+{
+  "image": "\/data\/upload\/3\/e8e4fded-frame_0064.jpg",
+  "id": 169,
+  "label": [
+    {
+      "x": 44.94230989037853,
+      "y": 37.34814244688826,
+      "width": 3.3348381064365227,
+      "height": 6.337470117978803,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 46.935546459743804,
+      "y": 42.4930778652481,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 47.97049621691374,
+      "y": 41.23239832565015,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 45.613110658915545,
+      "y": 37.99551842668246,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 216,
+  "created_at": "2026-09-30T16:19:26.093343Z",
+  "updated_at": "2026-09-30T16:19:26.093343Z",
+  "lead_time": 21.237
+},
+{
+  "image": "\/data\/upload\/3\/5fdd7a07-frame_0065.jpg",
+  "id": 170,
+  "label": [
+    {
+      "x": 46.634188831164266,
+      "y": 44.351177356479155,
+      "width": 1.9204086882112448,
+      "height": 7.025627377257392,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 46.85638487773415,
+      "y": 49.9096054421006,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 48.30065918043842,
+      "y": 49.82495932912159,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 47.64994218691233,
+      "y": 44.464038840451295,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 217,
+  "created_at": "2026-09-30T16:20:18.368679Z",
+  "updated_at": "2026-09-30T16:20:18.369678Z",
+  "lead_time": 52.059
+},
+{
+  "image": "\/data\/upload\/3\/b4d0bafc-frame_0066.jpg",
+  "id": 171,
+  "label": [
+    {
+      "x": 41.954493998593776,
+      "y": 54.501776703718285,
+      "width": 4.150915155701172,
+      "height": 6.163973355394196,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 42.235291200302896,
+      "y": 57.6922840390807,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 43.08989137941786,
+      "y": 59.45031869326003,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 45.55602332486385,
+      "y": 55.36994196504135,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 218,
+  "created_at": "2026-09-30T16:20:43.758147Z",
+  "updated_at": "2026-09-30T16:20:43.758147Z",
+  "lead_time": 25.174
+},
+{
+  "image": "\/data\/upload\/3\/57ffb4e2-frame_0067.jpg",
+  "id": 172,
+  "label": [
+    {
+      "x": 34.01802169650307,
+      "y": 55.942702486498085,
+      "width": 4.370669487473677,
+      "height": 4.9919502526079285,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 34.567407525934584,
+      "y": 58.11311563980617,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 35.0679590594162,
+      "y": 56.20315206489529,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 37.94918252043231,
+      "y": 58.937872638063126,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 219,
+  "created_at": "2026-09-30T16:21:20.597289Z",
+  "updated_at": "2026-09-30T16:21:20.597289Z",
+  "lead_time": 36.587
+},
+{
+  "image": "\/data\/upload\/3\/c9b893ed-frame_0068.jpg",
+  "id": 173,
+  "label": [
+    {
+      "x": 30.464054670650448,
+      "y": 45.71541224812243,
+      "width": 2.1242918737999776,
+      "height": 6.532943591456501,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 32.038960715019506,
+      "y": 46.01927008958553,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 30.671600428435585,
+      "y": 46.453352720247096,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 31.562826329512607,
+      "y": 51.2065575259912,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 220,
+  "created_at": "2026-09-30T16:21:55.481939Z",
+  "updated_at": "2026-09-30T16:21:55.481939Z",
+  "lead_time": 34.666
+},
+{
+  "image": "\/data\/upload\/3\/88ccc3c7-frame_0069.jpg",
+  "id": 174,
+  "label": [
+    {
+      "x": 31.751184206061854,
+      "y": 33.40786915413434,
+      "width": 2.5638005373448483,
+      "height": 6.027070371877931,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 34.05203084214116,
+      "y": 34.39290281602083,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 32.840564654165014,
+      "y": 33.95882018535927,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 32.2395271655567,
+      "y": 38.28295100618021,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 221,
+  "created_at": "2026-09-30T16:22:24.302169Z",
+  "updated_at": "2026-09-30T16:22:24.302169Z",
+  "lead_time": 28.6
+},
+{
+  "image": "\/data\/upload\/3\/4867c054-frame_0070.jpg",
+  "id": 175,
+  "label": [
+    {
+      "x": 34.62767161854284,
+      "y": 20.85775657904268,
+      "width": 2.685886277218459,
+      "height": 5.3759464258853775,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 36.937909465381814,
+      "y": 21.642444411392642,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 35.76400812044369,
+      "y": 21.058102408579,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 35.24749152867092,
+      "y": 25.08171448509579,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 222,
+  "created_at": "2026-09-30T16:22:51.432140Z",
+  "updated_at": "2026-09-30T16:22:51.432140Z",
+  "lead_time": 26.882
+},
+{
+  "image": "\/data\/upload\/3\/95cbc83a-frame_0071.jpg",
+  "id": 176,
+  "label": [
+    {
+      "x": 38.21637211431839,
+      "y": 8.9527898056922,
+      "width": 3.0803171291175415,
+      "height": 4.7916044230717905,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 38.58262933393955,
+      "y": 12.542319251547621,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 40.98677928837282,
+      "y": 10.021300896551626,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 40.075831844700836,
+      "y": 9.103049177844474,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 223,
+  "created_at": "2026-09-30T16:23:18.510511Z",
+  "updated_at": "2026-09-30T16:23:18.510511Z",
+  "lead_time": 26.858
+},
+{
+  "image": "\/data\/upload\/3\/57215bac-frame_0072.jpg",
+  "id": 177,
+  "label": [
+    {
+      "x": 45.28586308398824,
+      "y": 3.9375661112673015,
+      "width": 3.554212072058807,
+      "height": 3.262041070651965,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 48.218810444264356,
+      "y": 5.863968318345247,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 48.27660251047669,
+      "y": 4.143049013355621,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 45.43034324951905,
+      "y": 5.029194028611473,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 224,
+  "created_at": "2026-09-30T16:23:41.953625Z",
+  "updated_at": "2026-09-30T16:23:41.953625Z",
+  "lead_time": 23.226
+},
+{
+  "image": "\/data\/upload\/3\/e6f1fc72-frame_0073.jpg",
+  "id": 178,
+  "label": [
+    {
+      "x": 53.71217788023731,
+      "y": 4.997911162209487,
+      "width": 3.5156084234351184,
+      "height": 3.7375754289401137,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 56.60841112237166,
+      "y": 7.634375157727305,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 56.87011894545615,
+      "y": 6.0369881486782555,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 53.947714921012654,
+      "y": 5.75783313738813,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 225,
+  "created_at": "2026-09-30T16:24:03.509925Z",
+  "updated_at": "2026-09-30T16:24:03.509925Z",
+  "lead_time": 21.336
+},
+{
+  "image": "\/data\/upload\/3\/bf616aec-frame_0074.jpg",
+  "id": 179,
+  "label": [
+    {
+      "x": 62.85499596897761,
+      "y": 7.798955162364756,
+      "width": 3.742421870108277,
+      "height": 3.951594270929097,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 65.83759279273087,
+      "y": 10.923940427640394,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 66.12110960107242,
+      "y": 9.028788073215212,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 63.149853449653136,
+      "y": 8.484435801199467,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 226,
+  "created_at": "2026-09-30T16:24:37.427134Z",
+  "updated_at": "2026-09-30T16:24:37.427134Z",
+  "lead_time": 33.69
+},
+{
+  "image": "\/data\/upload\/3\/72a4917f-frame_0075.jpg",
+  "id": 180,
+  "label": [
+    {
+      "x": 72.89962027305403,
+      "y": 12.290651564059013,
+      "width": 3.640900171377263,
+      "height": 4.212399492810405,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 75.93370374920224,
+      "y": 15.55269263471132,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 76.17209602232813,
+      "y": 13.921672099385333,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 73.25359667860506,
+      "y": 12.984156358607402,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 227,
+  "created_at": "2026-09-30T16:25:07.906790Z",
+  "updated_at": "2026-09-30T16:25:07.906790Z",
+  "lead_time": 30.266
+},
+{
+  "image": "\/data\/upload\/3\/8ac46d90-frame_0076.jpg",
+  "id": 181,
+  "label": [
+    {
+      "x": 83.37580135594578,
+      "y": 16.689837366094668,
+      "width": 3.8287243865674725,
+      "height": 3.1336142568467436,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 86.85777334523942,
+      "y": 18.975834651827235,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 86.67717313832584,
+      "y": 17.344814116501244,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 83.73700176977314,
+      "y": 17.93557746000515,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 228,
+  "created_at": "2026-09-30T16:25:35.617392Z",
+  "updated_at": "2026-09-30T16:25:35.617392Z",
+  "lead_time": 27.494
+},
+{
+  "image": "\/data\/upload\/3\/1653f19d-frame_0077.jpg",
+  "id": 182,
+  "label": [
+    {
+      "x": 92.2809076267543,
+      "y": 15.51971792046424,
+      "width": 3.9591696312788853,
+      "height": 3.089792646330899,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 95.99850080595215,
+      "y": 17.189876107670347,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 95.64955704183949,
+      "y": 15.7344525445338,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    },
+    {
+      "x": 92.79761281591873,
+      "y": 16.486023728776445,
+      "width": 0.15668523676880225,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 1280,
+      "original_height": 720
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 229,
+  "created_at": "2026-09-30T16:26:12.543961Z",
+  "updated_at": "2026-09-30T16:26:12.543961Z",
+  "lead_time": 36.704
+},
+{
+  "image": "\/data\/upload\/3\/88206c3f-frame_0078.jpg",
+  "id": 183,
+  "label": [
+    {
+      "x": 30.713529249722942,
+      "y": 49.93403920730124,
+      "width": 6.354953816304613,
+      "height": 7.879532345909141,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 35.5328066035418,
+      "y": 56.12668575521271,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 36.41925399245658,
+      "y": 53.17463560871717,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 31.237906578377224,
+      "y": 50.999440763930984,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 230,
+  "created_at": "2026-09-30T16:26:35.919720Z",
+  "updated_at": "2026-09-30T16:26:35.919720Z",
+  "lead_time": 23.156
+},
+{
+  "image": "\/data\/upload\/3\/d98b60a5-frame_0079.jpg",
+  "id": 184,
+  "label": [
+    {
+      "x": 31.75595961056074,
+      "y": 50.59025203024772,
+      "width": 6.3424686418127845,
+      "height": 7.879532345909242,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 36.5752369643791,
+      "y": 56.738506846633705,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 32.192940717772224,
+      "y": 51.92200397603571,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 37.49913987676915,
+      "y": 53.764260834375044,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 231,
+  "created_at": "2026-09-30T16:27:04.207609Z",
+  "updated_at": "2026-09-30T16:27:04.207609Z",
+  "lead_time": 28.04
+},
+{
+  "image": "\/data\/upload\/3\/1d2e9458-frame_0080.jpg",
+  "id": 185,
+  "label": [
+    {
+      "x": 32.081638456033545,
+      "y": 50.6556670021903,
+      "width": 6.351083412212046,
+      "height": 7.877312759332934,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 36.93462578098023,
+      "y": 56.88249518337959,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 37.841923411296236,
+      "y": 53.994147171624206,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 32.651336968092984,
+      "y": 51.856019422662435,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 232,
+  "created_at": "2026-09-30T16:27:27.630181Z",
+  "updated_at": "2026-09-30T16:27:27.630181Z",
+  "lead_time": 23.204
+},
+{
+  "image": "\/data\/upload\/3\/5e2af5c0-frame_0081.jpg",
+  "id": 186,
+  "label": [
+    {
+      "x": 88.32012435469288,
+      "y": 47.920874182584804,
+      "width": 4.095137233296625,
+      "height": 10.232294116800432,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 91.02940721940381,
+      "y": 48.89749227616308,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 89.25651244157426,
+      "y": 48.608946021242474,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 91.64118076949993,
+      "y": 56.86580808512475,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 233,
+  "created_at": "2026-09-30T16:27:57.707794Z",
+  "updated_at": "2026-09-30T16:27:57.707794Z",
+  "lead_time": 29.825
+},
+{
+  "image": "\/data\/upload\/3\/1272c450-frame_0082.jpg",
+  "id": 187,
+  "label": [
+    {
+      "x": 88.29908128145192,
+      "y": 47.740479733191485,
+      "width": 4.1159915906893305,
+      "height": 10.158474971892446,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 91.0581525675202,
+      "y": 48.785810930827935,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 89.33938684833126,
+      "y": 48.571384018492466,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 91.54061312027497,
+      "y": 56.69280332319806,
+      "width": 0.1566852367688022,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 234,
+  "created_at": "2026-09-30T16:28:20.103379Z",
+  "updated_at": "2026-09-30T16:28:20.103379Z",
+  "lead_time": 22.147
+},
+{
+  "image": "\/data\/upload\/3\/58ac370d-frame_0083.jpg",
+  "id": 188,
+  "label": [
+    {
+      "x": 88.3236836404803,
+      "y": 47.59445435947443,
+      "width": 4.138994831002518,
+      "height": 10.258530578705697,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 90.99741387802753,
+      "y": 48.561226874745834,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 89.27535033520158,
+      "y": 48.292678953837296,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 91.57143505896953,
+      "y": 56.61766450200177,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 235,
+  "created_at": "2026-09-30T16:28:44.222302Z",
+  "updated_at": "2026-09-30T16:28:44.222302Z",
+  "lead_time": 23.816
+},
+{
+  "image": "\/data\/upload\/3\/b4ee6cbc-frame_0084.jpg",
+  "id": 189,
+  "label": [
+    {
+      "x": 22.374705554184242,
+      "y": 17.37490358706918,
+      "width": 6.06567713620947,
+      "height": 6.620387556470552,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 22.86256162412083,
+      "y": 19.803342690752796,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 23.22032274207421,
+      "y": 22.434151719743316,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 27.96878848945545,
+      "y": 18.444573192263185,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 236,
+  "created_at": "2026-09-30T16:29:05.271227Z",
+  "updated_at": "2026-09-30T16:29:05.271227Z",
+  "lead_time": 20.81
+},
+{
+  "image": "\/data\/upload\/3\/efc579d7-frame_0085.jpg",
+  "id": 190,
+  "label": [
+    {
+      "x": 18.248216129155402,
+      "y": 19.549895665967544,
+      "width": 6.130724612200977,
+      "height": 7.9791570549601305,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 18.638500985104827,
+      "y": 23.452744225459394,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 19.467856303996754,
+      "y": 25.79445336115425,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 23.66341850545004,
+      "y": 20.503925313843645,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 237,
+  "created_at": "2026-09-30T16:29:31.430715Z",
+  "updated_at": "2026-09-30T16:29:31.430715Z",
+  "lead_time": 25.906
+},
+{
+  "image": "\/data\/upload\/3\/ca5470b9-frame_0086.jpg",
+  "id": 191,
+  "label": [
+    {
+      "x": 14.623881835473263,
+      "y": 24.342310436948296,
+      "width": 5.642868542264582,
+      "height": 9.945036329370593,
+      "rotation": 0,
+      "rectanglelabels": [
+        "car"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "kp-label": [
+    {
+      "x": 14.867809870441452,
+      "y": 30.90487801475951,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_left"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 16.493996770229547,
+      "y": 32.52383741721522,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "head_right"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    },
+    {
+      "x": 19.079633940892617,
+      "y": 24.920510223539324,
+      "width": 0.15698587127158556,
+      "keypointlabels": [
+        "tail"
+      ],
+      "original_width": 3840,
+      "original_height": 2160
+    }
+  ],
+  "annotator": 1,
+  "annotation_id": 238,
+  "created_at": "2026-09-30T16:29:54.367977Z",
+  "updated_at": "2026-09-30T16:29:54.367977Z",
+  "lead_time": 22.689
+}
+]
