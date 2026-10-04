@@ -1,0 +1,8 @@
+train: ../data/dataset/images/train
+val: ../data/dataset/images/train
+
+kpt_shape: [3, 2]
+flip_idx: [1, 0, 2]
+
+names:
+  0: car

@@ -3,7 +3,7 @@ train: images/train
 val: images/train
 
 kpt_shape: [3, 2]
-flip_idx: [1, 0, 2]     # 關鍵！告訴 YOLO 左右翻轉時，第 0 個點與第 1 個點的位置要互換
+flip_idx: [1, 0, 2]     # Important! Tells YOLO to swap keypoint 0 and keypoint 1 on horizontal flips
 
 names:
   0: car

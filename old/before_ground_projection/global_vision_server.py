@@ -6,7 +6,7 @@ import argparse
 import numpy as np
 from ultralytics import YOLO
 
-# 1. 解析 CLI 參數
+# 1. Parse CLI arguments
 parser = argparse.ArgumentParser(description="Global Vision System Server")
 parser.add_argument('--port', type=int, default=5000, help='UDP target port')
 parser.add_argument('--ip', type=str, default='127.0.0.1', help='UDP target IP')
@@ -14,7 +14,7 @@ parser.add_argument('--cam', type=int, default=0, help='Camera index')
 parser.add_argument('--model', type=str, default='best.pt', help='YOLO model path')
 args = parser.parse_args()
 
-# 2. Homography 矩陣標定 (像素 (u,v) -> 真實毫米 (x,y))
+# 2. Homography calibration (pixel (u,v) -> real-world millimeters (x,y))
 pts_image = np.array([
     [237, 180],
     [1024, 185],
@@ -36,7 +36,7 @@ def pixel_to_real(u, v):
     real_pt = cv2.perspectiveTransform(pt, H_matrix)
     return float(real_pt[0][0][0]), float(real_pt[0][0][1])
 
-# 3. 初始化 Socket 與相機
+# 3. Initialize socket and camera
 udp_sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 start_timestamp = time.time_ns() // 1000
 

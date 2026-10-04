@@ -6,12 +6,13 @@ from ultralytics import YOLO
 
 def main():
     # 1. 載入訓練好的 3-Keypoint 最佳權重
-    model_path = r"runs/pose/toy_car_project/v3_model_nano-5/weights/best.pt"
+    model_path = r"v4_model/weights/best.pt"
     model = YOLO(model_path)
 
     # 2. 設定小車影片路徑
-    video_path = r"toycar2.mp4"
-    #video_path = r"output.mp4"
+    #video_path = r"toycar2.mp4"
+    video_path = r'output.mp4'
+    #video_path = r"car2_data/long_car2.mp4"
     cap = cv2.VideoCapture(video_path)
 
     if not cap.isOpened():
@@ -30,8 +31,8 @@ def main():
     delay_ms = max(1, int(1000 / video_fps))
 
     # --- EMA 平滑係數 (alpha 越小越平滑，但反應會微延遲；0.25~0.35 效果最好) ---
-    ALPHA_POS = 0.65  # 座標平滑係數
-    ALPHA_DEG = 0.6  # 角度平滑係數
+    ALPHA_POS = 0.8  # 座標平滑係數
+    ALPHA_DEG = 0.8  # 角度平滑係數
 
     # 保存上一幀平滑後的數據
     smooth_front = None
@@ -205,7 +206,7 @@ def main():
                     (int(tail_x_sm), int(tail_y_sm)),
                     (int(front_x), int(front_y)),
                     ( 0, 0, 255),
-                    6,
+                    3,
                     tipLength=0.25,
                 )
 

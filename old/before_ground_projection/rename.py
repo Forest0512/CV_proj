@@ -2,16 +2,16 @@ import os
 
 folder_path = r"C:/Users/Aphrodite/Desktop/Master_Class/CV_proj/dataset/images/train"
 
-# 2. 設定自訂開始數字 (例如：0 或 1)
+# 2. Set the custom start number (e.g. 0 or 1)
 start_num = 0
 
-# 3. 取得資料夾內所有 jpg 檔案並按名稱排序
+# 3. Get all jpg files in the folder and sort them by name
 files = [f for f in os.listdir(folder_path) if f.lower().endswith('.jpg')]
 files.sort()
 
-print(f"找到 {len(files)} 個檔案，將從 frame_{start_num:04d} 開始重新排序...")
+print(f"Found {len(files)} files, renumbering starting from frame_{start_num:04d}...")
 
-# 第一階段：改名為臨時名稱（避免直接覆蓋衝突）
+# Stage 1: rename to temporary names (avoids overwrite conflicts)
 temp_files = []
 for i, filename in enumerate(files):
     ext = os.path.splitext(filename)[1]
@@ -21,7 +21,7 @@ for i, filename in enumerate(files):
     os.rename(old_path, temp_path)
     temp_files.append(temp_name)
 
-# 第二階段：依自訂起始數字重新命名
+# Stage 2: rename using the custom start number
 for i, temp_name in enumerate(temp_files):
     ext = os.path.splitext(temp_name)[1]
     current_num = start_num + i
@@ -30,4 +30,4 @@ for i, temp_name in enumerate(temp_files):
     new_path = os.path.join(folder_path, new_name)
     os.rename(temp_path, new_path)
 
-print("重排完成！")
+print("Renumbering done!")
